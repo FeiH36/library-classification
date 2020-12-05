@@ -1,0 +1,14 @@
+library-classification目录树如下（简版，仅顶层目录）  
+│  readme.txt			#分类法背景介绍  
+│  tree.txt				#目录树（即当前文档）  
+│      
+├─code  
+│      mkfolder.c		#批量文件夹创建工具源码，内含文件树文档说明  
+│      mkfolder.exe		#批量文件夹创建工具，支持WINDOWS系统  
+│      tof.txt			#文件树文档（对应为《中国图书分类法》）  
+│          
+└─lib  
+│  ├─tree.txt			#遵循《中国图书分类法》生成文件夹的目录树  
+│  │ 
+│  ├─lib.rar			#遵循《中国图书分类法》规则的各级文件夹			  
+...
